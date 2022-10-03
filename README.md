@@ -5,7 +5,7 @@
 ### 📊 Languages
 ![jubbakka's GitHub stats](https://github-readme-stats.vercel.app/api?username=jubbakka&hide=contribs&count_private=true&shows_icons=true,prs)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jubbakka&show_icons=true&count_private=true&locale=en&layout=compact&theme=radical)](https://github.com/jubbakka)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jubbakka&show_icons=true&count_private=true&locale=en&layout=compact&theme=radical)](https://github.com/jubbakka/)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maayaneaha&show_icons=true&locale=en&layout=compact&theme=radical)](https://github.com/maayaneaha/)
 
