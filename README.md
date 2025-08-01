@@ -11,7 +11,8 @@
 - 🔭 I work at **ELCA** as a Full Stack Developer and Business Analyst (requirements gathering & solution design)  
 - 🌱 In my free time, I build small web projects:  
   - 🔗 ICS generator for CHUV employees  
-  - 🏋️ Weight & training habit tracker  
+  - 🏋️ Weight & training habit tracker
+  - a personnal portfolio
 - 🎯 Passionate about creating scalable web applications and exploring new technologies
 
 ---
