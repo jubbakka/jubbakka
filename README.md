@@ -2,7 +2,7 @@
 
 <p align="center">
   <h1>Hi, I'm <strong>Julien</strong> 👋</h1>
-  <p>23-year-old Full Stack Developer. EPITA graduate, now at ELCA.</p>
+  <p>24-year-old Full Stack Developer. EPITA graduate, now at ELCA.</p>
 </p>
 
 ---
