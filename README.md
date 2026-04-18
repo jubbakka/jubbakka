@@ -12,7 +12,7 @@
 - 🌱 In my free time, I build small web projects:  
   - 🔗 ICS generator for CHUV employees  
   - 🏋️ Weight & training habit tracker
-  - a personnal portfolio
+  -    A personnal portfolio
 - 🎯 Passionate about creating scalable web applications and exploring new technologies
 
 ---
